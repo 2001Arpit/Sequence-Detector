@@ -1,1 +1,2 @@
-# Sequence-Detector
+# Mixed Signal Hackathon
+## Sequence Detector
